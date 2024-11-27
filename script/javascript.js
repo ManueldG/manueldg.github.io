@@ -14,7 +14,7 @@ $( "#testo" ).animate(
         console.log( "done!" );
     }
 ).animate({
-    right: "+=50",
+    
     opacity: 1
 },
 
