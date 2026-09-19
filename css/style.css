@@ -1,7 +1,7 @@
 header > ul.nav-menu{
      width: 100vw;
      display: flex;
-     list-style: none;
+     list-style-type: none;
 }
 
 .content{
