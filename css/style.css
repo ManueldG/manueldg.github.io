@@ -10,7 +10,7 @@ header > ul.nav-menu{
 li {
 
    display: flex;
-
+   justify-content: center;
 }
 
 .content{
