@@ -1,4 +1,5 @@
-header.nav-menu{
+header > ul.nav-menu{
+     display: flex;
      list-style: none;
 }
 
