@@ -1,8 +1,16 @@
 header > ul.nav-menu{
+
      width: 100vw;
      display: flex;
      justify-content: space-between;
      list-style-type: none;
+
+}
+
+li {
+
+   display: flex;
+
 }
 
 .content{
